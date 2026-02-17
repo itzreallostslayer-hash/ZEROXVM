@@ -41,7 +41,7 @@ It comes with an interactive menu, Docker-based VPS deployment, network tools, s
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ZEROXVM.git
+git clone https://github.com/itzreallostslayer-hash/ZEROXVM.git
 cd ZEROXVM
 chmod +x zeroxvm.sh
 ./zeroxvm.sh
