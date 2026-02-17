@@ -77,7 +77,4 @@ This project is for personal and educational purposes. Please contact [support@z
 **ZEROXVM – Fully Loaded VPS & DevOps Suite 🚀**
 Developed with ❤️ by @lost.slayer
 
-
-
-Do you want me to add that?
 ```
