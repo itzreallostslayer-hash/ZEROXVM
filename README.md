@@ -1,38 +1,38 @@
 
-````markdown
+
 # ZEROXVM Ultimate Installer & Manager 🌐🚀
 
-**Developed by:** @lost.slayer & ZEROX DEVELOPMENT 
-**Support:** support@zeroxhq.com  
-**Discord:** [Join Here](https://discord.gg/K9Kpvs7YuF)  
+**Developed by:** @lost.slayer & ZEROX DEVELOPMENT
+**Support:** [support@zeroxhq.com](mailto:support@zeroxhq.com)
+**Discord:** [Join Here](https://discord.gg/K9Kpvs7YuF)
 
 ---
 
 ## Overview
 
-ZEROXVM is a fully loaded, all-in-one DevOps & VPS management suite designed to simplify VPS deployment, system monitoring, backups, security, and cloud integration.  
+ZEROXVM is a fully loaded, all-in-one DevOps & VPS management suite designed to simplify VPS deployment, system monitoring, backups, security, and cloud integration.
 It comes with an interactive menu, Docker-based VPS deployment, network tools, system info fetchers, and more.
 
 ---
 
 ## Features
 
-- 🐳 **Docker Installation & Management**  
-- 🖥 **GitHub VPS Maker & ZEROX IDX VPS Maker**  
-- ⚡ **Multi-VPS Batch Deployment**  
-- 🔒 **Security & Firewall Setup (UFW / Firewalld)**  
-- 💾 **Backup & Snapshot Manager**  
-- ☁️ **Cloud & API Integration (AWS, GCP, Azure, DigitalOcean placeholders)**  
-- 📊 **System Info & Monitoring (fastfetch / neofetch)**  
-- 📝 **Logs & Alerts**  
+* 🐳 **Docker Installation & Management**
+* 🖥 **GitHub VPS Maker & ZEROX IDX VPS Maker**
+* ⚡ **Multi-VPS Batch Deployment**
+* 🔒 **Security & Firewall Setup (UFW / Firewalld)**
+* 💾 **Backup & Snapshot Manager**
+* ☁️ **Cloud & API Integration (AWS, GCP, Azure, DigitalOcean placeholders)**
+* 📊 **System Info & Monitoring (fastfetch / neofetch)**
+* 📝 **Logs & Alerts**
 
 ---
 
 ## Requirements
 
-- Linux VPS or WSL environment  
-- Bash shell  
-- Internet connection for Docker and package installations  
+* Linux VPS or WSL environment
+* Bash shell
+* Internet connection for Docker and package installations
 
 ---
 
@@ -45,7 +45,7 @@ git clone https://github.com/yourusername/ZEROXVM.git
 cd ZEROXVM
 chmod +x zeroxvm.sh
 ./zeroxvm.sh
-````
+```
 
 The script will automatically detect your environment (standard VPS, WSL, or GitHub Codespaces) and install required tools like Docker, fastfetch/neofetch, and network utilities.
 
@@ -77,4 +77,4 @@ This project is for personal and educational purposes. Please contact [support@z
 **ZEROXVM – Fully Loaded VPS & DevOps Suite 🚀**
 Developed with ❤️ by @lost.slayer
 
-```
+
